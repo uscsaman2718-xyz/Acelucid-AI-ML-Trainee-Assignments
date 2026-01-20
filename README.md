@@ -24,10 +24,11 @@ Train the Model: Run the training script to generate the model file and view per
 python model_training.py
 Launch Real-Time Detection: Start the webcam inference script.
 python main.py
-Note: Press 'q' to exit the webcam window.
 
 Results
 1. Training Accuracy and Loss
 Below is the plot showing the model's training and validation accuracy over the epochs.
-2. Real-Time Webcam Prediction
+https://github.com/uscsaman2718-xyz/Acelucid-AI-ML-Trainee-Assignments/blob/main/Training%20Accuracy%20and%20Loss%20Screenshot.png
+3. Real-Time Webcam Prediction
 Screenshot of the system correctly classifying a digit in real-time.
+https://github.com/uscsaman2718-xyz/Acelucid-AI-ML-Trainee-Assignments/blob/main/Real-Time%20Webcam%20Prediction%20Screenshot.png
